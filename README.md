@@ -1,4 +1,4 @@
-# Star Galaxy Separation
+# Star-Galaxy-QSO Separation
 
 ## Repository for a short project on Star Galaxy separation using SDSS data.
 
